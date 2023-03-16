@@ -1,0 +1,50 @@
+## Ignore data
+*/FastTextData/*
+*/csd-data-chellenge/*
+*.dtd
+*.xml*
+*.json
+*.zip
+*.bak
+*.rar
+*.csv
+*.xlsx
+*.zip
+*.gz
+*.tar*
+*.bin
+*.vec
+*.npy
+*.txt
+*.pdf
+*.preqs
+*.nx
+
+## Ignore Models
+*.pt
+*.pkl
+
+## Ignore Images
+*.jpg
+*.jpeg
+*.jpe
+*.png
+*.raw
+*.jif
+*.svg
+*.svgz
+
+
+## Ignore jupyter checkpoints
+*ipynb_checkpoints/
+
+# Byte-compiled / optimized / DLL files
+*__pycache__/
+*/__pycache__/
+*.py[cod]
+
+## Ignore models
+*.pkl
+
+## Ignore folders
+/periodicals
